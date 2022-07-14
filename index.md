@@ -12,8 +12,8 @@
 <img src="images/dotifyHome.PNG?raw=true"/>
 
 ---
-[Project 3 Title](/GWB)
-<img src="images/gwbHome.PNG?raw=true"/>
+[Gigih Waste Bank](/GWB)
+<img src="images/gwblogo.PNG?raw=true"/>
 
 ---
 
