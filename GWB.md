@@ -20,23 +20,23 @@ Home page
 
 ### Screenshot 2:
 Edukasi page
-<img src="gwbEdukasi.PNG?raw=true"/>
+<img src="images/gwbEdukasi.PNG?raw=true"/>
 
 ### Screenshot 2:
 Profile page
-<img src="gwbProfile.PNG?raw=true"/>
+<img src="images/gwbProfile.PNG?raw=true"/>
 
 ### Screenshot 2:
 Transaksi page
-<img src="gwbTransaksi.PNG?raw=true"/>
+<img src="images/gwbTransaksi.PNG?raw=true"/>
 
 ### Screenshot 2:
 Redeem page
-<img src="gwbRedeem.PNG?raw=true"/>
+<img src="images/gwbRedeem.PNG?raw=true"/>
 
 ### Screenshot 2:
 History page
-<img src="gwbHistory.PNG?raw=true"/>
+<img src="images/gwbHistory.PNG?raw=true"/>
 
 
 ### 3. Demo
