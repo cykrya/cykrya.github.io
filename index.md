@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[VR tour: Gedung Merdeka](/sample_page)
+[VR tour: Gedung Merdeka](/gedungMerdeka)
 <img src="images/vr.jpg?raw=true"/>
 
 ---
