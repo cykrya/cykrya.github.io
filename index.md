@@ -13,7 +13,7 @@
 
 ---
 [Gigih Waste Bank](/GWB)
-<img src="images/gwblogo.PNG?raw=true"/>
+<img src="images/gwblogo.jpeg?raw=true"/>
 
 ---
 
