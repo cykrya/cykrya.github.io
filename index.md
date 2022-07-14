@@ -9,7 +9,7 @@
 
 ---
 [Dotify](/dotify)
-<img src="images/dotifyHome.PNG?raw=true"/>
+<img src="images/dotifyLogo.PNG?raw=true"/>
 
 ---
 [Gigih Waste Bank](/GWB)
