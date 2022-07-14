@@ -14,6 +14,6 @@ hasil akhir gedung merdeka setelah texturing dan coloring.
 
 ### 3. Demo
 
-Untuk Link APK dapat didownload di sini: [Link](https://drive.google.com/file/d/1OLvrnI1EPD-b-7w64ymhSD9LBDl7Pc-M/view?usp=sharing)
+Untuk Link APK dapat didownload di sini: [Application](https://drive.google.com/file/d/1OLvrnI1EPD-b-7w64ymhSD9LBDl7Pc-M/view?usp=sharing)
 
-Untuk video demo singkat aplikasi: [Link](https://drive.google.com/file/d/1QnBriclchis0Qr9IfRoKqFAhUxvNM57Y/view?usp=sharing).
+Untuk video demo singkat aplikasi: [Demo Video](https://drive.google.com/file/d/1QnBriclchis0Qr9IfRoKqFAhUxvNM57Y/view?usp=sharing).
