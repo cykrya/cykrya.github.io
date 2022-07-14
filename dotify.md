@@ -12,11 +12,11 @@ langkahnya sederhana, yaitu:
 ### Screenshot 1:
 
 Home page
-<img src="images/dotifyHome.jpg?raw=true"/>
+<img src="images/dotifyHome.PNG?raw=true"/>
 
 ### Screenshot 2:
 Search track and playlist creation page
-<img src="images/dotifySearchTrack.jpg?raw=true"/>
+<img src="images/dotifySearchTrack.PNG?raw=true"/>
 
 
 ### 3. Demo
