@@ -4,7 +4,7 @@
 
 ### Projects 
 [Lets All Love Lain](/pages/letsAllLoveLain)
-<img src="images/lainlogo.jpeg?raw=true"/>
+<img src="images/lainlogo.PNG?raw=true"/>
 
 ---
 [VR tour: Gedung Merdeka](/pages/gedungMerdeka)
