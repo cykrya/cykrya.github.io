@@ -18,6 +18,6 @@ Search track and playlist creation page
 <img src="../images/dotifySearchTrack.PNG?raw=true"/>
 
 
-### 3. Demo
+### Demo
 
 Untuk Link website dapat dilihat di sini: [Dotify](https://fe2module3assignment.vercel.app/)
