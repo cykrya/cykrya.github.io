@@ -12,7 +12,7 @@ hasil akhir gedung merdeka setelah texturing dan coloring.
 <img src="../images/vr1.jpg?raw=true"/>
 
 
-### 3. Demo
+### Demo
 
 Untuk Link APK dapat didownload di sini: [Application](https://drive.google.com/file/d/1OLvrnI1EPD-b-7w64ymhSD9LBDl7Pc-M/view?usp=sharing)
 
