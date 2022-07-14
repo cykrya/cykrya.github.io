@@ -14,4 +14,4 @@ form page
 
 ### 3. Demo
 
-Untuk Link website dapat dilihat di sini: [LetsAllLoveLain](https://lets-all-love-lain.vercel.app/)
+Untuk Link website dapat dilihat di sini: [letsAllLoveLain](https://lets-all-love-lain.vercel.app/)
