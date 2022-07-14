@@ -6,11 +6,11 @@
 ### Screenshot 1:
 
 Home page
-<img src="images/lainHome.PNG?raw=true"/>
+<img src="../images/lainHome.PNG?raw=true"/>
 
 ### Screenshot 2:
 form page
-<img src="images/lainForm.PNG?raw=true"/>
+<img src="../images/lainForm.PNG?raw=true"/>
 
 ### 3. Demo
 
