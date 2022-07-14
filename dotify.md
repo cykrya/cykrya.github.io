@@ -21,4 +21,4 @@ Search track and playlist creation page
 
 ### 3. Demo
 
-Untuk Link website dapat dilihat di sini: [Link](https://fe2module3assignment.vercel.app/)
+Untuk Link website dapat dilihat di sini: [Dotify](https://fe2module3assignment.vercel.app/)
