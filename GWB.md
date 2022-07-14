@@ -1,6 +1,6 @@
-## Website Project (Dotify)
+## Website Project (GiGIH Waste Bank)
 
-**Project description:** Project berikut merupakan project yang selama saya melakukan Studi Independent. Dotify merupakan sebuah website yang menggunakan React.js dan API Spotify.
+**Project description:** Project berikut merupakan Capstone project untuk Studi Independent yang kelompok saya lakukan. dengan tema 'Waste' sebagai pilihan yang di pilih, kami menemukan sebuah ide Waste bank sebagai solusi masalah mismanaged waste di Indonesia. 
 Dotify merupakan sebuah React project untuk membuat playlist dan menambah/menghapus lagu di playlist tersebut.
 langkahnya sederhana, yaitu:
 
