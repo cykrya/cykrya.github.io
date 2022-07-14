@@ -11,7 +11,7 @@
 - 💎Points system : earned depends on the weight and type of waste that has been given to the waste bank.
 - 🔄 Redeem point : Users can redeem point they earn to things they want, contains redeem history when click time logo.
 - 🕒 History page : Users can find out the history of the waste exchange transactions to the points they have done.
-- 🏃‍♀‍ Logout from Gigih Waste Bank account
+- 🏃‍♀‍ Logout from Gigih Waste Bank account.
 
 ### Screenshot 1:
 
