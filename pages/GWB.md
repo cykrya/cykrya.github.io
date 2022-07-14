@@ -16,29 +16,29 @@
 ### Screenshot 1:
 
 Home page
-<img src="images/gwbHome.PNG?raw=true"/>
+<img src="../images/gwbHome.PNG?raw=true"/>
 
 ### Screenshot 2:
 Edukasi page
-<img src="images/gwbEdukasi.PNG?raw=true"/>
+<img src="../images/gwbEdukasi.PNG?raw=true"/>
 
-### Screenshot 2:
+### Screenshot 3:
 Profile page
-<img src="images/gwbProfile.PNG?raw=true"/>
+<img src="../images/gwbProfile.PNG?raw=true"/>
 
-### Screenshot 2:
+### Screenshot 4:
 Transaksi page
-<img src="images/gwbTransaksi.PNG?raw=true"/>
+<img src="../images/gwbTransaksi.PNG?raw=true"/>
 
-### Screenshot 2:
+### Screenshot 5:
 Redeem page
-<img src="images/gwbRedeem.PNG?raw=true"/>
+<img src="../images/gwbRedeem.PNG?raw=true"/>
 
-### Screenshot 2:
+### Screenshot 6:
 History page
-<img src="images/gwbHistory.PNG?raw=true"/>
+<img src="../images/gwbHistory.PNG?raw=true"/>
 
 
-### 3. Demo
+### Demo
 
 Untuk Link website dapat dilihat di sini: [Gigih Waste Bank](https://gigih-waste-bank.vercel.app/)
