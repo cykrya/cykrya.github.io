@@ -5,11 +5,11 @@
 ### Screenshot 1:
 
 Awal Pembuatan model gedung merdeka.
-<img src="images/vr.jpg?raw=true"/>
+<img src="../images/vr.jpg?raw=true"/>
 
 ### Screenshot 2:
 hasil akhir gedung merdeka setelah texturing dan coloring.
-<img src="images/vr1.jpg?raw=true"/>
+<img src="../images/vr1.jpg?raw=true"/>
 
 
 ### 3. Demo
