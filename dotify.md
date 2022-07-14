@@ -1,6 +1,6 @@
 ## Website Project (Dotify)
 
-**Project description:** Project berikut merupakan project yang dibuat selama saya melakukan Studi Independent. Dotify merupakan sebuah website yang menggunakan React.js dan API Spotify dengan fungsi untuk membuat playlist dan menambah/menghapus lagu di playlist spotify.
+**Project description:** Project berikut merupakan project yang dibuat selama saya melakukan Studi Independent. Dotify merupakan sebuah website yang menggunakan React.js dan API Spotify dengan fungsi untuk membuat playlist dan menambah/menghapus lagu di playlist spotify tersebut.
 
 langkahnya sederhana, yaitu:
 1. login. 
